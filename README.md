@@ -31,7 +31,7 @@ El proyecto está organizado en módulos diferenciados para:
 - Programa principal para la captura de datos del negocio y ejecución del menú.
 
 ## Cómo usar
-1. Clonar este repositorio.
+1. Descargar el repositorio en archivo .zip.
 2. Abrir el archivo `PROYECTO-ORDENADO.ipynb` con Jupyter Notebook.
 3. Ejecutar las celdas en orden para cargar las funciones y el programa principal.
 4. Ingresar los datos solicitados para el negocio.
@@ -40,7 +40,7 @@ El proyecto está organizado en módulos diferenciados para:
 
 ## Limitaciones
 - No cuenta con interfaz gráfica, solo consola.
-- La gestión está limitada a un período de un mes y condiciones definidas en el código.
+- La gestión está limitada a un registro local y condiciones definidas en el código.
 - La configuración predeterminada de inventarios depende del tipo de negocio (3 tipos disponibles).
 
 ## Objetivos del Proyecto
